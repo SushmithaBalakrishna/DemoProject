@@ -1,2 +1,2 @@
 # DemoProject
-Project which has all package manager files
+Project which has all package manager files for dependency tracker
